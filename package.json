@@ -32,10 +32,20 @@
     "ember-data": "~2.13.0",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
+    "ember-lodash-shim": "^2.0.4",
+    "ember-maybe-import-regenerator": "^0.1.6",
+    "ember-redux": "git@github.com:ember-redux/ember-redux.git#branches/moveService2",
+    "ember-redux-saga-shim": "^1.1.0",
+    "ember-redux-shim": "^1.1.2",
+    "ember-redux-thunk-shim": "^1.1.2",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.14.0-beta.1",
+    "ember-symbol-observable": "^1.0.0",
     "ember-welcome-page": "^3.0.0",
-    "loader.js": "^4.2.3"
+    "loader.js": "^4.2.3",
+    "redux": "^3.7.0",
+    "redux-saga": "^0.15.3",
+    "redux-thunk": "^2.2.0"
   },
   "engines": {
     "node": ">= 4"
